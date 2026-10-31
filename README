@@ -1,0 +1,2 @@
+Is is a implementation of grep in C but with Thompson finite Automata thanks to a Stack.
+It is to read expresion REGEX. there is a .md file with more stuff
